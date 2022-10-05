@@ -1,3 +1,4 @@
+![OpsVerse Logo](https://opsverse.io/wp-content/uploads/2020/09/OPSVERSE-LOGO-Transparent-300PPI.png)
 ## Hi there 👋
 
 <!--
